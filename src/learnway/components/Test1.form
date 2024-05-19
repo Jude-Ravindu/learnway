@@ -49,17 +49,17 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Component class="learnway.view.components.Button" name="button1">
+    <Component class="learnway.components.Button" name="button1">
       <Properties>
         <Property name="text" type="java.lang.String" value="button1"/>
       </Properties>
     </Component>
-    <Component class="learnway.view.components.PasswordField" name="passwordField1">
+    <Component class="learnway.components.PasswordField" name="passwordField1">
       <Properties>
         <Property name="text" type="java.lang.String" value="passwordField1"/>
       </Properties>
     </Component>
-    <Component class="learnway.view.components.TextField" name="textField1">
+    <Component class="learnway.components.TextField" name="textField1">
       <Properties>
         <Property name="text" type="java.lang.String" value="textField1"/>
       </Properties>

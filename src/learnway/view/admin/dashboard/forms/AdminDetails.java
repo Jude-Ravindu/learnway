@@ -9,7 +9,7 @@ import java.awt.Color;
 import java.sql.ResultSet;
 import java.util.Vector;
 import javax.swing.DefaultComboBoxModel;
-import learnway.view.components.SimpleForm;
+import learnway.components.SimpleForm;
 
 /**
  *
@@ -74,31 +74,31 @@ public class AdminDetails extends SimpleForm {
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         jPanel2 = new javax.swing.JPanel();
-        button2 = new learnway.view.components.Button();
-        button3 = new learnway.view.components.Button();
+        button2 = new learnway.components.Button();
+        button3 = new learnway.components.Button();
         jPanel3 = new javax.swing.JPanel();
         jPanel4 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
-        textField1 = new learnway.view.components.TextField();
+        textField1 = new learnway.components.TextField();
         jLabel3 = new javax.swing.JLabel();
-        textField2 = new learnway.view.components.TextField();
+        textField2 = new learnway.components.TextField();
         jLabel4 = new javax.swing.JLabel();
         jComboBox1 = new javax.swing.JComboBox<>();
         jLabel5 = new javax.swing.JLabel();
-        textField3 = new learnway.view.components.TextField();
+        textField3 = new learnway.components.TextField();
         jLabel6 = new javax.swing.JLabel();
-        textField4 = new learnway.view.components.TextField();
+        textField4 = new learnway.components.TextField();
         jPanel5 = new javax.swing.JPanel();
         jLabel7 = new javax.swing.JLabel();
-        textField5 = new learnway.view.components.TextField();
+        textField5 = new learnway.components.TextField();
         jLabel8 = new javax.swing.JLabel();
-        passwordField1 = new learnway.view.components.PasswordField();
+        passwordField1 = new learnway.components.PasswordField();
         jLabel10 = new javax.swing.JLabel();
         jComboBox2 = new javax.swing.JComboBox<>();
         jLabel9 = new javax.swing.JLabel();
-        textField6 = new learnway.view.components.TextField();
+        textField6 = new learnway.components.TextField();
         jLabel11 = new javax.swing.JLabel();
-        textField8 = new learnway.view.components.TextField();
+        textField8 = new learnway.components.TextField();
 
         setPreferredSize(new java.awt.Dimension(915, 700));
 
@@ -301,8 +301,8 @@ public class AdminDetails extends SimpleForm {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private learnway.view.components.Button button2;
-    private learnway.view.components.Button button3;
+    private learnway.components.Button button2;
+    private learnway.components.Button button3;
     private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JComboBox<String> jComboBox2;
     private javax.swing.JLabel jLabel1;
@@ -321,13 +321,13 @@ public class AdminDetails extends SimpleForm {
     private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel4;
     private javax.swing.JPanel jPanel5;
-    private learnway.view.components.PasswordField passwordField1;
-    private learnway.view.components.TextField textField1;
-    private learnway.view.components.TextField textField2;
-    private learnway.view.components.TextField textField3;
-    private learnway.view.components.TextField textField4;
-    private learnway.view.components.TextField textField5;
-    private learnway.view.components.TextField textField6;
-    private learnway.view.components.TextField textField8;
+    private learnway.components.PasswordField passwordField1;
+    private learnway.components.TextField textField1;
+    private learnway.components.TextField textField2;
+    private learnway.components.TextField textField3;
+    private learnway.components.TextField textField4;
+    private learnway.components.TextField textField5;
+    private learnway.components.TextField textField6;
+    private learnway.components.TextField textField8;
     // End of variables declaration//GEN-END:variables
 }

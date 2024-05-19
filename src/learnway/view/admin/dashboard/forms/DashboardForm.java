@@ -18,7 +18,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.UIManager;
 import learnway.view.admin.dashboard.AdminDashboard;
-import learnway.view.components.SimpleForm;
+import learnway.components.SimpleForm;
 import net.miginfocom.swing.MigLayout;
 import raven.chart.ChartLegendRenderer;
 import raven.chart.bar.HorizontalBarChart;

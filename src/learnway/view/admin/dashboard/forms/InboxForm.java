@@ -1,6 +1,6 @@
 package learnway.view.admin.dashboard.forms;
 
-import learnway.view.components.SimpleForm;
+import learnway.components.SimpleForm;
 import learnway.view.admin.dashboard.menu.FormManager;
 
 /**

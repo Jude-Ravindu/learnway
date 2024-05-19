@@ -11,7 +11,7 @@ import java.awt.EventQueue;
 import java.awt.Font;
 import javax.swing.JFrame;
 import javax.swing.UIManager;
-import learnway.view.components.Background;
+import learnway.components.Background;
 import learnway.view.admin.dashboard.forms.DashboardForm;
 import learnway.view.admin.dashboard.menu.FormManager;
 import raven.popup.GlassPanePopup;

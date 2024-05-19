@@ -1,4 +1,4 @@
-package learnway.view.components;
+package learnway.components;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

@@ -1,4 +1,4 @@
-package learnway.view.swing;
+package learnway.swing;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

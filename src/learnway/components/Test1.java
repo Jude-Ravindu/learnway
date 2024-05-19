@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package learnway.view.components;
+package learnway.components;
 
 import com.formdev.flatlaf.FlatClientProperties;
 import com.formdev.flatlaf.FlatLaf;
@@ -45,9 +45,9 @@ public class Test1 extends SimpleForm {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        button1 = new learnway.view.components.Button();
-        passwordField1 = new learnway.view.components.PasswordField();
-        textField1 = new learnway.view.components.TextField();
+        button1 = new learnway.components.Button();
+        passwordField1 = new learnway.components.PasswordField();
+        textField1 = new learnway.components.TextField();
         scroll = new javax.swing.JScrollPane();
         table = new javax.swing.JTable();
 
@@ -102,10 +102,10 @@ public class Test1 extends SimpleForm {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private learnway.view.components.Button button1;
-    private learnway.view.components.PasswordField passwordField1;
+    private learnway.components.Button button1;
+    private learnway.components.PasswordField passwordField1;
     private javax.swing.JScrollPane scroll;
     private javax.swing.JTable table;
-    private learnway.view.components.TextField textField1;
+    private learnway.components.TextField textField1;
     // End of variables declaration//GEN-END:variables
 }

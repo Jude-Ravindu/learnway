@@ -1,4 +1,4 @@
-package learnway.view.components;
+package learnway.components;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -8,11 +8,11 @@ import java.awt.RenderingHints;
 import java.awt.geom.Area;
 import java.awt.geom.RoundRectangle2D;
 import java.awt.image.BufferedImage;
-import javax.swing.JPasswordField;
+import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
-import javax.swing.plaf.basic.BasicPasswordFieldUI;
+import javax.swing.plaf.basic.BasicTextFieldUI;
 
-public class PasswordField extends JPasswordField {
+public class TextField extends JTextField {
 
     public int getRound() {
         return round;
@@ -39,7 +39,7 @@ public class PasswordField extends JPasswordField {
     private BufferedImage imageShadow;
     private final Insets shadowSize = new Insets(2, 5, 8, 5);
 
-    public PasswordField() {
+    public TextField() {
         setUI(new TextUI());
         setOpaque(false);
         setForeground(new Color(80, 80, 80));
@@ -102,7 +102,7 @@ public class PasswordField extends JPasswordField {
         }
     }
 
-    private class TextUI extends BasicPasswordFieldUI {
+    private class TextUI extends BasicTextFieldUI {
 
         //  Override this method to remove background or not paint background
         @Override

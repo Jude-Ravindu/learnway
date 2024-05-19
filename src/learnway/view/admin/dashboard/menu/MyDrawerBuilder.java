@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JLabel;
-import learnway.view.components.CompoundIcon;
+import learnway.components.CompoundIcon;
 import raven.drawer.component.DrawerPanel;
 import raven.drawer.component.SimpleDrawerBuilder;
 import raven.drawer.component.footer.SimpleFooterData;

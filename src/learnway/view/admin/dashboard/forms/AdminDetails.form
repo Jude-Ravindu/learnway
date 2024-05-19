@@ -102,7 +102,7 @@
         </DimensionLayout>
       </Layout>
       <SubComponents>
-        <Component class="learnway.view.components.Button" name="button2">
+        <Component class="learnway.components.Button" name="button2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="99" red="33" type="rgb"/>
@@ -116,7 +116,7 @@
             </Property>
           </Properties>
         </Component>
-        <Component class="learnway.view.components.Button" name="button3">
+        <Component class="learnway.components.Button" name="button3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="66" green="0" red="ff" type="rgb"/>
@@ -184,7 +184,7 @@
                 <Property name="text" type="java.lang.String" value="FirstName"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField1">
+            <Component class="learnway.components.TextField" name="textField1">
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textField1ActionPerformed"/>
               </Events>
@@ -199,7 +199,7 @@
                 <Property name="text" type="java.lang.String" value="Username"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField2">
+            <Component class="learnway.components.TextField" name="textField2">
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textField2ActionPerformed"/>
               </Events>
@@ -239,7 +239,7 @@
                 <Property name="text" type="java.lang.String" value="Gender"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField3">
+            <Component class="learnway.components.TextField" name="textField3">
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel6">
               <Properties>
@@ -251,7 +251,7 @@
                 <Property name="text" type="java.lang.String" value="NIC"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField4">
+            <Component class="learnway.components.TextField" name="textField4">
             </Component>
           </SubComponents>
         </Container>
@@ -272,7 +272,7 @@
                 <Property name="text" type="java.lang.String" value="LastName"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField5">
+            <Component class="learnway.components.TextField" name="textField5">
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel8">
               <Properties>
@@ -284,7 +284,7 @@
                 <Property name="text" type="java.lang.String" value="Password"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.PasswordField" name="passwordField1">
+            <Component class="learnway.components.PasswordField" name="passwordField1">
               <Properties>
                 <Property name="text" type="java.lang.String" value="passwordField1"/>
               </Properties>
@@ -324,7 +324,7 @@
                 <Property name="text" type="java.lang.String" value="Email"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField6">
+            <Component class="learnway.components.TextField" name="textField6">
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel11">
               <Properties>
@@ -336,7 +336,7 @@
                 <Property name="text" type="java.lang.String" value="Address"/>
               </Properties>
             </Component>
-            <Component class="learnway.view.components.TextField" name="textField8">
+            <Component class="learnway.components.TextField" name="textField8">
             </Component>
           </SubComponents>
         </Container>
