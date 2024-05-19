@@ -3,8 +3,8 @@ package learnway.applicaton;
 import com.formdev.flatlaf.FlatLaf;
 import com.formdev.flatlaf.fonts.roboto.FlatRobotoFont;
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
-import learnway.view.admin.login.FormsManager;
-import learnway.view.admin.login.Login;
+import learnway.view.login.FormsManager;
+import learnway.view.login.Login;
 import raven.toast.Notifications;
 
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package learnway.view.admin.login;
+package learnway.view.login;
 
 import com.formdev.flatlaf.extras.FlatAnimatedLafChange;
 

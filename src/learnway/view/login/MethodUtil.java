@@ -1,4 +1,4 @@
-package learnway.view.admin.login;
+package learnway.view.login;
 
 public class MethodUtil {
     public static int checkPasswordStrength(String password) {
